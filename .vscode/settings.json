@@ -1,0 +1,11 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "Amazon_Technical_Academy_Prework/Prerequisite_1/courseraJars/apache-csv.jar",
+        "Amazon_Technical_Academy_Prework/Prerequisite_1/courseraJars/courserajava.jar",
+        "Amazon_Technical_Academy_Prework/Prerequisite_1/courseraJars/pi4j-core.jar",
+        "Amazon_Technical_Academy_Prework/Prerequisite_1/courseraJars/pi4j-device.jar",
+        "Amazon_Technical_Academy_Prework/Prerequisite_1/courseraJars/pi4j-gpio-extension.jar",
+        "Amazon_Technical_Academy_Prework/Prerequisite_1/courseraJars/pi4j-service.jar"
+    ]
+}
